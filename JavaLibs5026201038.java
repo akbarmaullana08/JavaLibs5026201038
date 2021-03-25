@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class JavaLibsGameTugas {
+public class JavaLibs5026201038 {
     public static void main(String [] args) {
 
         String name, from, hobby, beer, place, cat;
